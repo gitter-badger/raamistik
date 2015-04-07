@@ -4,3 +4,4 @@
 ## Viited
 - [Standardikeskuse juhendmaterjal](http://www.evs.ee/Tootedjateenused/Tasutajuhendmaterjalid/tabid/380/Default.aspx)
 - [RKAS parim praktika](http://www.rkas.ee/parim-praktika/bim)
+- [IM ülevaade, EA Reng](http://www.eareng.ee/wp-content/uploads/2013/01/BIM-EA_Reng_2011.pdf)
