@@ -4,4 +4,3 @@
 ## Viited
 - [Standardikeskuse juhendmaterjal](http://www.evs.ee/Tootedjateenused/Tasutajuhendmaterjalid/tabid/380/Default.aspx)
 - [RKAS parim praktika](http://www.rkas.ee/parim-praktika/bim)
-- 
