@@ -1,5 +1,7 @@
 ## e-ehitise raamistik
 
+[![Join the chat at https://gitter.im/e-ehitis/raamistik](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/e-ehitis/raamistik?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **e-ehitise** projekti edukaks juurutamiseks era- ja avaliku sektori äriprotsessides tuleb luua õiguslike, organisatoorsete ja tehniliste meetmete <a href="https://github.com/e-ehitis/raamistik/issues">raamistik</a>, sh juurutada <a href="http://www.buildingsmart.org/standards/technical-vision/open-standards-101/">r/v parim praktika</a>, luua ühine <a href="https://github.com/e-ehitis/raamistik/labels/klassifikaator">klassifikaatorite süsteem</a>, <a href="https://github.com/e-ehitis/raamistik/labels/API">ühine API</a> BIM veebiteenustele, koolitusprogramm jne.
 
 ## Uuringud
